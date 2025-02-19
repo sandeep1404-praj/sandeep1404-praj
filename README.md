@@ -1,3 +1,4 @@
+![logo](https://github.com/sandeep1404-praj/sandeep1404-praj/blob/main/Screenshot%202025-02-19%20215548.png)
 <h1 align="center">Hi 👋, I'm Sandeep Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
